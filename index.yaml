@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  javaapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-07-13T02:57:36.954582817Z"
+    description: A Helm chart for Kubernetes
+    digest: b6903afaa71df9040d0880a627c3aa42027b1ab7adf81a63dd386ca8821641cc
+    name: javaapp
+    type: application
+    urls:
+    - https://maclass23.github.io/helm.pages/javaapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-07-13T02:57:36.953614255Z"
